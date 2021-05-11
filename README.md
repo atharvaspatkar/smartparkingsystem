@@ -21,9 +21,8 @@ In present days we are facing many problems with the existing car parking system
 ABOUT THE PROJECT:
 
 The time to find an empty parking slot is minimized. The main responsibility of our proposed system is to help the user to find an area where parking is available and total number of slots free in that area. Thus our proposed methodology reduces the user’s effort and time of searching a parking slot.. 
-![image](https://user-images.githubusercontent.com/84002325/117770915-25bb6580-b253-11eb-8ce0-5d688edc7fa4.png)
 
- 
+![image](https://user-images.githubusercontent.com/84002325/117770915-25bb6580-b253-11eb-8ce0-5d688edc7fa4.png)
 
 When a car arrives at the entrance, Using the android application on his android device, the user commands the Parking Control Unit to check the status of available parking slots. On receiving this command, a search for free slot is carried out and corresponding information is provided to the user . The car traces its path to the entrance of the parking area.
  The user can search the parking area through the android application and pre book that slot. The proposed system is based on client-server architecture.
